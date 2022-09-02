@@ -1,14 +1,17 @@
 # ICT2101-2201-Team-Project
 
+## Roles
 Christabelle: Team Lead/Full Stack Developer
 Gavin: Tech Lead(Architect)/Full Stack Developer
 Yong Chong: Front End Developer/UI&UX Designer
 Irfaan: Back End Developer/QA Engineer
 
-React => Frontend
-Express => Backend
-Database => SQL
-Screens:
+## Frameworks
+- Frontend: React.js / Next.js
+- Backend: Express.js
+- Database: PostgreSQL
+
+## Screens
 - Login Screen
 - Employee:
 	- Home Dashboard Page that shows his current job assignments, working hours, engaged assignments/ upcoming assignments
