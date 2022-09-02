@@ -1,10 +1,10 @@
 # ICT2101-2201-Team-Project
 
 ## Roles
-Christabelle: Team Lead/Full Stack Developer
-Gavin: Tech Lead(Architect)/Full Stack Developer
-Yong Chong: Front End Developer/UI&UX Designer
-Irfaan: Back End Developer/QA Engineer
+- Christabelle: Team Lead/Full Stack Developer
+- Gavin: Tech Lead(Architect)/Full Stack Developer
+- Yong Chong: Front End Developer/UI&UX Designer
+- Irfaan: Back End Developer/QA Engineer
 
 ## Frameworks
 - Frontend: React.js / Next.js
