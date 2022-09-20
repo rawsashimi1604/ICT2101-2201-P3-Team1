@@ -29,6 +29,7 @@ In the train operation division of a train company, work allocation is assigned 
 ## System Architecture Diagram
 
 ## Use Case Model
+![Use Case Model](./docs/2101_UseCaseModel.drawio.png)
 
 ## Requirements 
 ### UI Requirements
