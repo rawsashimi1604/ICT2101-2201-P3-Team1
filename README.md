@@ -43,6 +43,38 @@ In the train operation division of a train company, work allocation is assigned 
 	- Employee workload and availability (status)
 
 ### Functional Requirements
+- The system should allow users to log into their account by entering their username and password.
+- The system should allow users to log out of their account.
+- The manager should be able to view all staff’s current workload on the landing page.
+- The manager should be able to view the total manpower on the landing page.
+- The manager should be able to view the top three staff with the lowest workload on the landing page.
+- The manager should be able to view the workload assigned, staff’s preferred time slot, staff’s location, and availability for the week in the staff availability table on the job allocation page.
+- The manager should be able to sort staff by the amount of workload assigned in the staff availability table on the job allocation page.
+- The manager should be able to view staff exceeding 40 hours of work highlighted in red in the staff availability table on the job allocation page.
+- The manager should be able to allocate jobs to staff for one week at a time in the staff availability table on the job allocation page.
+- The manager should be able to add new staff to the system.
+- Staff should be able to view their weekly job assignments on their landing page.
+- Staff should be able to view their overall workload for the month on their landing page.
+- Staff should be able to indicate their work availability up to 1 month in advance of the job on the calendar page.
+- Staff should be able to edit their work availability from the following Thursday up to one month on the calendar page.
+- Staff should be able to reject the jobs assigned to them by the manager on the calendar page.
 
 ### Non Functional Requirements
+- The system shall be based in the form of a web application. It will consist of a frontend application to display and input data for the user, and a backend application to process it. The two applications will connect to each other using REST service calls.
+- The manager should take no more than 2 hours to complete job allocation for the week.
+#### Performance Requirements
+- A REST service call must respond within 3 seconds.
+- The system should be able to support up to 100 concurrent users.
+- The system should be available for end users 95% of the time.
 
+#### Safety and Security Requirements
+- After 3 unsuccessful login attempts, the system will lock an account to protect a user's information from potential hackers.
+- All Personally Identifiable Information (PII) will be encrypted.
+- The system shall be secured using HTTPS protocol with an SSL certificate.
+- The application should not store hard coded sensitive information.
+
+#### Other requirements
+- The system should be accessible from Google Chrome, Mozilla Firefox, Microsoft Edge, Brave and Safari.
+- The system should be responsive, catering to any devices with any resolution.
+- The system shall meet the Web Content Accessibility Guidelines WCAG 2.1.
+- Username should not be NRIC due to PDPA.
