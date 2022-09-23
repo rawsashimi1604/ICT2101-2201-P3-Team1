@@ -19,15 +19,21 @@ The system will be based on a relational database with work management and staff
 ### Background
 The challenge of balancing an employee's workload is constant, and it can be a touchy subject at work. Companies frequently search for technologies that can simplify their task management because work-life balance is a cycle and there is always a desire to improve it and make the workplace more hospitable and appealing.
 <br/>
+<br/>
 The Client has therefore determined that a workload management system based on the Web would be an instructive approach to get an overview of the company's labor strength at all time and to obtain more detailed information on staff availability and engagement.
+<br/>
 <br/>
 The solution is expected to provide an interactive way for employees to view their job assignments, and indicate their availabilities. The adminstrative staff should also be able to visualize the manpower availability at a glance.
 <br/>
+<br/>
 Work allocation is assigned weekly on Mondays in the train operation section of a train company. Every Thursday of the week, the planning for workload distribution will begin. As a result, every Wednesday, all employee availabilities must be entered into the system in order to be taken into account during planning. Requests would be handled on a case-by-case basis if employees missed the weekly deadline.
+<br/>
 <br/>
 The length and route of the train affect the weekly roster. Five Pendolino trains are being operated by the company between Singapore and Kuala Lumpur. One way travel time on the route is roughly four hours. There are eight stops along the route, and the service typically stops at each one for ten minutes or so. Throughout the trip, there should always be at least one engine driver at the locomotive. One train conductor should be present on board for all services. Every two passenger carriages will also have a cleaner and an auxiliary conductor assigned to them. There would typically be seven to thirteen passenger carriages on the train.
 <br/>
+<br/>
 The management will arrange workers so that they do not have to travel between routes and trains do not remain stopped for more than three hours. Every day, the service runs bidirectionally every two hours from each end. The first train leaves at 5.30 a.m., while the last one leaves at 9.30 p.m.
+<br/>
 <br/>
 The engine driver is only permitted to run the locomotive for a maximum of two hours at a time by law. As a result, while giving job tasks, the management must take this into account.
 
