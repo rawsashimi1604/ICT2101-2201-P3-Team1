@@ -98,3 +98,6 @@ The engine driver is only permitted to run the locomotive for a maximum of two h
 - The system should be responsive, catering to any devices with any resolution.
 - The system shall meet the Web Content Accessibility Guidelines WCAG 2.1.
 - Username should not be NRIC due to PDPA.
+
+#### Prototype Walkthrough
+Link to YouTube: https://youtu.be/nXuDMSXQkWA
