@@ -9,6 +9,9 @@
 | Yong Chong    | Front End Developer/UI&UX Designerr |
 | Irfaan    | Back End Developer/QA Engineer |
 
+## Prototype Walkthrough
+Link to YouTube: https://youtu.be/nXuDMSXQkWA
+
 ## Introduction
 ### Scope
 The scope of this project is a web application that supports the company’s operational system for train services. Managers will be able to have an overview of the company’s manpower strength and allocate work. Staff will be able to view their job assignment information and inform managers of their availability.
@@ -99,5 +102,4 @@ The engine driver is only permitted to run the locomotive for a maximum of two h
 - The system shall meet the Web Content Accessibility Guidelines WCAG 2.1.
 - Username should not be NRIC due to PDPA.
 
-#### Prototype Walkthrough
-Link to YouTube: https://youtu.be/nXuDMSXQkWA
+
